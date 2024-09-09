@@ -5,8 +5,9 @@ Nikto es una herramienta de escaneo de seguridad para servidores web que ayuda a
 ## Instalación de Nikto
 
 Nikto suele estar preinstalado en Kali Linux. Para verificar si está instalado y ver la versión, usa el siguiente comando:
-
+```bash
 `nikto -Version`
+```
 
 Si Nikto no está instalado, puedes instalarlo utilizando `apt`:
 ```bash
